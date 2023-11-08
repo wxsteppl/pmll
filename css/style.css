@@ -946,4 +946,37 @@ h1, h2, h3, h4, h5, h6 {
   color: #D0A48D;
 }
 
+
+.back-button {
+  background-color: #916648;
+  color: black;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 20px;
+}
+
+.back-button:hover {
+  background-color: #6b4d3e;
+}
+
+
+.back-buttoni {
+  background-color: #8C7676;
+  font-size: 15px;
+  color: black;
+  border: none;
+  border-radius: 25px;
+  padding: 7.5px 13px;
+}
+
+.back-buttoni:hover {
+  background-color: #6b4d3e;
+}
+
+.vitazentr{
+  align: center;
+}
+
+
+
 /*# sourceMappingURL=style.css.map */
